@@ -2,7 +2,6 @@
 - 👀 I’m interested in Linux, Laravel, and Libre Project!
 - 🌱 I’m currently learning anything!
 - 😄 Pronouns? are you kidding me?
-- ⚡ Fun fact: i used arch btw and librebooted thinkpad x60 & x220. jk
 
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me --->
